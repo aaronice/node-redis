@@ -1,0 +1,26 @@
+{
+  "name": "node-redis",
+  "version": "0.0.1",
+  "description": "Node.js Redis experiment",
+  "main": "RedisClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronice/node-redis.git"
+  },
+  "keywords": [
+    "redis",
+    "node.js"
+  ],
+  "author": "Aaron H.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronice/node-redis/issues"
+  },
+  "homepage": "https://github.com/aaronice/node-redis#readme",
+  "dependencies": {
+    "redis": "^2.4.2"
+  }
+}
